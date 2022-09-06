@@ -1,10 +1,11 @@
 import "bootswatch/dist/darkly/bootstrap.min.css"
+import Layout from "./components/UI/Layout";
 
 function App() {
   return (
-    <div>
+    <Layout>
       <h1>hello world</h1>
-    </div>
+    </Layout>
   );
 }
 
