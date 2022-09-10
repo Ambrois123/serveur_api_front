@@ -1,8 +1,13 @@
 import React from 'react'
+import TestGetData from '../TestGetData/TestGetData'
+
+
 
 function Salles() {
   return (
-    <div>les Salles</div>
+    <div>
+      <TestGetData />
+    </div>
   )
 }
 

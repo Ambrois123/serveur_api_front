@@ -1,8 +1,11 @@
 import React from 'react'
+import DataClients from '../Datas/DataClients'
 
 function Formulaire() {
   return (
-    <div>Le Formulaire</div>
+    <div>
+      <DataClients />
+    </div>
   )
 }
 

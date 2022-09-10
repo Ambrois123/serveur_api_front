@@ -1,5 +1,5 @@
-import "bootswatch/dist/darkly/bootstrap.min.css"
 import Layout from "./components/UI/Layout";
+import "bootswatch/dist/darkly/bootstrap.min.css";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Partenaire from "./components/Partenaires/Partenaire";
 import Salles from "./components/Salles/Salles";
